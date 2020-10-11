@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science (Machine Learning), KTH Royal Institute of Technology, 2023 (expected)
-* M.S. in Robotics, Cognition, Intelligence, Technical University of Munich (TUM), 2017
+* M.Sc. in Robotics, Cognition, Intelligence, Technical University of Munich (TUM), 2017
 * Exchange semester at Universidade Federal de Santa Catarina, Florianópolis (Brazil), 2016
-* B.S. in Mechanical Engineering, Technical University of Braunschweig, 2015
+* B.Sc. in Mechanical Engineering, Technical University of Braunschweig, 2015
 
 
 
@@ -22,9 +22,9 @@ Education
 Work experience
 ======
 
-* July-January 2018/19: Research Assistant
+* July-January 2018/19: Researcher
   * Technical University of Hamburg
-  * Medical robotics and 3d computer vision
+  * Medical robotics and 3D computer vision
 
 * April-December 2017: Master Thesis Student
   * Fortiss GmbH
