@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science (Machine Learning), KTH Royal Institute of Technology, 2023 (expected)
+* M.S. in Robotics, Cognition, Intelligence, Technical University of Munich (TUM), 2017
+* Exchange semester at Universidade Federal de Santa Catarina, Florianópolis (Brazil), 2016
+* B.S. in Mechanical Engineering, Technical University of Braunschweig, 2015
+
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* July-January 2018/19: Research Assistant
+  * Technical University of Hamburg
+  * Medical robotics and 3d computer vision
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* April-December 2017: Master Thesis Student
+  * Fortiss GmbH
+  * Deep reinforcement learning for nonholonomic path planning
+
+* September-November 2017: Student Research Assistant
+  * Technical University of Munich (TUM)
+  * Video analysis for detection of traffic scenarios
+
+* March-September 2014: Student Internship
+  * Volkswagen AG
+  * Research on autonomous driving for race cars
+
+* May-June 2011: Internship
+  * Physikalisch-Technische Bundesanstalt, Braunschweig
+  * Pre-study internship at national metrology institute of Germany
