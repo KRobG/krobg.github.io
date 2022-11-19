@@ -12,6 +12,26 @@ author_profile: true
 <td style="border:none;bpadding:20px;width:25%;vertical-align:middle">
 
 <p align="left">
+<img src="{{ site.baseurl }}/images/neurips_2022.gif" alt="drawing" width="200" style="float: left"/>
+</p>
+
+</td>
+<td style="border:none;padding:20px;width:75%;vertical-align:middle">
+<b>Latent Planning via Expansive Space Trees</b><br>
+Robert Gieselmann, Florian T. Pokorny <br>
+<i>NeurIPS 2022</i> <br>
+<a href="https://openreview.net/forum?id=zSdz5scsnzU" style="text-decoration:none">PDF</a>
+</td>
+</tr>
+</table>
+
+<b>2021</b>
+
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
+<tr style="padding:0px">
+<td style="border:none;bpadding:20px;width:25%;vertical-align:middle">
+
+<p align="left">
 <img src="{{ site.baseurl }}/images/neurips_ws_elast.png" alt="drawing" width="200" style="float: left"/>
 </p>
 
