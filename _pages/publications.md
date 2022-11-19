@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>2021</b>
+<b>2022</b>
 
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
 <tr style="padding:0px">
