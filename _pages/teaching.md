@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Foundations of Machine Learning (KTH)
+* Spring 2022
+
 ## Database Technology (KTH)
 * Winter 2019, Winter 2020
 

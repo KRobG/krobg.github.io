@@ -5,7 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>2022</b>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
+<tr style="padding:0px">
+<td style="border:none;bpadding:20px;width:25%;vertical-align:middle">
+
+<p align="left">
+<img src="{{ site.baseurl }}/images/rss2023.gif" alt="drawing" width="200" style="float: left"/>
+</p>
+
+</td>
+<td style="border:none;padding:20px;width:75%;vertical-align:middle">
+<b>An Expansive Latent Planner for Long-horizon Visual Offline Reinforcement Learning</b><br>
+Robert Gieselmann, Florian T. Pokorny <br>
+<i>RSS 2023 - Workshop on Learning for Task and Motion Planning (spotlight)</i> <br>
+<a href="https://openreview.net/forum?id=YZagKndI5J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Droboticsfoundation.org%2FRSS%2F2023%2FWorkshop%2FLTAMP%2FAuthors%23your-submissions)" style="text-decoration:none">PDF</a>
+</td>
+</tr>
+</table>
 
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
 <tr style="padding:0px">
@@ -24,8 +40,6 @@ Robert Gieselmann, Florian T. Pokorny <br>
 </td>
 </tr>
 </table>
-
-<b>2021</b>
 
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
 <tr style="padding:0px">
@@ -118,8 +132,6 @@ Rita Laezza, Robert Gieselmann, Florian T. Pokorny, Yiannis Karayiannidis<br>
 </tr>
 </table>
 
-<b>2020</b>
-
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
 <tr style="padding:0px">
 <td style="border:none;bpadding:20px;width:25%;vertical-align:middle">
@@ -138,7 +150,6 @@ Robert Gieselmann, Florian T. Pokorny<br>
 </tr>
 </table>
 
-<b>2018</b>
 
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
 <tr style="padding:0px">
